@@ -2,6 +2,7 @@ package com.iesbarajas.house;
 import java.awt.*;
 
 /**
+ * Comentario
  * A triangle that can be manipulated and that draws itself on a canvas.
  * 
  * @author  Michael K�lling and David J. Barnes
