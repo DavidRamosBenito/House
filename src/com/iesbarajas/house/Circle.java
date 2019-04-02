@@ -36,7 +36,7 @@ public class Circle {
     public int getyPosition() {
         return yPosition;
     }
-
+// segundo comentario
     public void setyPosition(int yPosition) {
         this.yPosition = yPosition;
     }
