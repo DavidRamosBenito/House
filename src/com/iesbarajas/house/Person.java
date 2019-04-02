@@ -33,7 +33,8 @@ public class Person
         yPosition = 190;
         color = "black";
         isVisible = false;
-        //dsfgsdfg
+        //jhmghm
+
     }
 
     /**
