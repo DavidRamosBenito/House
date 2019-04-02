@@ -37,6 +37,7 @@ public class Square
      */
     public void makeVisible()
     {
+        //adsasdasd
         isVisible = true;
         draw();
     }
