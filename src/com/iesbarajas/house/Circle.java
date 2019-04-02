@@ -35,6 +35,7 @@ public class Circle {
 
     public int getyPosition() {
         return yPosition;
+        //fghfghfgh
     }
 // segundo comentario
     public void setyPosition(int yPosition) {
