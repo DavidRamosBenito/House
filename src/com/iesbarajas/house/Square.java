@@ -21,6 +21,7 @@ public class Square
      */
     public Square()
     {
+        //asdasdasd
         size = 60;
         xPosition = 310;
         yPosition = 120;
