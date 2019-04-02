@@ -21,7 +21,10 @@ public class Square
      */
     public Square()
     {
-        //asdasdasd
+
+
+        //comentario
+
         size = 60;
         xPosition = 310;
         yPosition = 120;
