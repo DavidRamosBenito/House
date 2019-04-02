@@ -17,8 +17,10 @@ public class Person
     private int yPosition;
     private String color;
     private boolean isVisible;
-    //ASDAD
-    //gfjhgfj
+
+
+    //ASD
+
 
     /**
      * Create a new person at default position with default color.
