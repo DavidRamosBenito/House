@@ -57,6 +57,7 @@ public class Picture
             sun.changeSize(80);
             sun.makeVisible();
             drawn = true;
+            //asdasd
         }
     }
 
