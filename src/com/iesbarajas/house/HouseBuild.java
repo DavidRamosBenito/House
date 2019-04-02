@@ -16,6 +16,7 @@ public class HouseBuild extends javax.swing.JFrame {
      */
     public HouseBuild() {
         initComponents();
+        //comentarios
     }
 
     /**
