@@ -79,6 +79,7 @@ public class Person
     public void moveUp()
     {
         moveVertical(-20);
+        //asdasda
     }
 
     /**
