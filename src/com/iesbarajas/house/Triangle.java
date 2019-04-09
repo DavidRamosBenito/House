@@ -63,6 +63,7 @@ public class Triangle
     public void moveLeft()
     {
         moveHorizontal(-20);
+        //asdasdasda
     }
 
     /**
