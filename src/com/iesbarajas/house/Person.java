@@ -62,6 +62,7 @@ public class Person
     public void moveRight()
     {
         moveHorizontal(20);
+    //asdasdasdasd
     }
 
     /**
