@@ -81,5 +81,6 @@ public class Picture
         window.changeColor("black");
         roof.changeColor("green");
         sun.changeColor("yellow");
+        //fhgfjhdfdjgfxcf
     }
 }
