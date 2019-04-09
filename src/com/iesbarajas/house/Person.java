@@ -44,6 +44,7 @@ public class Person
     {
         isVisible = true;
         draw();
+        //sdfsdf
     }
     
     /**
@@ -61,6 +62,7 @@ public class Person
     public void moveRight()
     {
         moveHorizontal(20);
+    //asdasdasdasd
     }
 
     /**
