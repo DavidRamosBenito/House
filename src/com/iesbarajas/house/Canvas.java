@@ -104,6 +104,7 @@ public class Canvas
         objects.add(referenceObject);      // add at the end
         shapes.put(referenceObject, new ShapeDescription(shape, color));
         redraw();
+        // asdfasfdasf
     }
  
     /**
