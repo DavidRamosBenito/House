@@ -44,6 +44,7 @@ public class Person
     {
         isVisible = true;
         draw();
+        //sdfsdf
     }
     
     /**
