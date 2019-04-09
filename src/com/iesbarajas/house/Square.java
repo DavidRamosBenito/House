@@ -30,6 +30,7 @@ public class Square
         yPosition = 120;
         color = "red";
         isVisible = false;
+        //adsasdasd
     }
 
     /**
